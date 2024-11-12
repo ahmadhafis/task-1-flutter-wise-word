@@ -1,11 +1,23 @@
 # task-1-flutter-wise-word
 
-![](/img/1.png)
-![](/img/2.png)
-![](/img/3.png)
-![](/img/4.png)
+Random Words
+![random-words](/img/1.png)
+
+Favorites
+![favorites](/img/2.png)
+
+Snackbar Favorites
+![snackbar](/img/3.png)
+
+History
+![history](/img/4.png)
 
 ## Bonus
-![](/img/bonus1.png)
-![](/img/bonus2.png)
-![](/img/bonus3.png)
+snackbar on history
+![snackbar-his](/img/bonus1.png)
+
+Remove Favorite on LongPress
+![rm-fav](/img/bonus2.png)
+
+Clear All History
+![clr](/img/bonus3.png)
