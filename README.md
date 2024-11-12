@@ -1,16 +1,11 @@
-# flutter_1
+# task-1-flutter-wise-word
 
-A new Flutter project.
+![](/img/1.png)
+![](/img/2.png)
+![](/img/3.png)
+![](/img/4.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Bonus
+![](/img/bonus1.png)
+![](/img/bonus2.png)
+![](/img/bonus3.png)
